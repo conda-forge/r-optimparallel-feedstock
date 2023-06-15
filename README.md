@@ -1,11 +1,11 @@
-About r-optimparallel
-=====================
+About r-optimparallel-feedstock
+===============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-optimparallel-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/florafauna/optimParallel-R
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-optimparallel-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides a parallel version of the L-BFGS-B method of optim(). The main function of the package is optimParallel(), which has the same usage and output as optim(). Using optimParallel() can significantly reduce the optimization time.
 
